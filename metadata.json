@@ -1,0 +1,6 @@
+{
+  "name": "Student Expense Tracker",
+  "description": "A feature-rich student financial management platform with expense tracking, category budgets, mess/hostel bill manager, savings goals, debt/borrow manager, smart reports, and multi-currency/bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
